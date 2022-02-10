@@ -1,0 +1,71 @@
+body
+{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    background-color: rgb(223, 209, 212);
+}
+
+.container
+{
+    width: 1300px;
+    margin: auto;
+}
+
+p
+{
+    font-weight:800;
+}
+
+h1
+{
+    text-align: center;
+    background-color: rgb(118, 148, 233);
+
+}
+
+h2
+{
+    color: rgb(7, 7, 82);
+}
+
+h5
+{
+    text-align: center;
+}
+
+.row
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box1
+{
+    width: 50%;
+    margin: auto;
+}
+
+.box1 .box1_1
+{
+    width:90%;
+    margin:auto;
+    padding: 10px 15px 10px 15px;
+}
+
+.box2
+{
+    width: 50%;
+    margin: auto;
+}
+
+.box2 .box2_1
+{
+    width: 45%;
+    margin: auto;
+    padding:2px 5px 2px 5px;
+}
+
+.box2_1 img
+{
+    width:76%;
+}
